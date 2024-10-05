@@ -35,8 +35,8 @@ Welcome to my GitHub profile! I'm a passionate **PHP Web Developer** with 2 year
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/joelbenny](https://www.linkedin.com/in/joel-benny-a68691220)) 
-[![Twitter](https://img.shields.io/badge/-Instagram-1DA1F2?style=flat&logo=instagram&logoColor=white)]([https://twitter.com/joelbenny](https://www.instagram.com/___joel___._/)) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joelbenny](https://www.linkedin.com/in/joel-benny-a68691220)) 
+[![Twitter](https://img.shields.io/badge/-Instagram-1DA1F2?style=flat&logo=instagram&logoColor=white)](https://twitter.com/joelbenny](https://www.instagram.com/___joel___._/)) 
 
 ---
 
