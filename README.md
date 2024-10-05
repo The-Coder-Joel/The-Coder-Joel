@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate **PHP Web Developer** with 2 year
 - 🌱 I’m always eager to learn new technologies and expand my skill set, currently diving deeper into **React** and **API development**.
 - 💬 Ask me about PHP, Laravel, or how to optimize web performance.
 - 🎯 I enjoy working on challenging problems that require creativity and advanced problem-solving skills.
-- 📫 You can reach me at: joelbenny@example.com
+- 📫 You can reach me at: contact.joelbenny@gmail.com
 
 ---
 
@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate **PHP Web Developer** with 2 year
 
 ## 🚀 Featured Projects
 
-### 1. **[Project Name](https://github.com/joelbenny/project-1)**
+### 1. **Whitetrip(https://github.com/joelbenny/project-1)**
 
 - **Description**: A project description goes here. Built using **PHP**, **Laravel**, and **Bootstrap**.
 - **Features**: Briefly list the key features (e.g., dynamic content, API integration, etc.).
