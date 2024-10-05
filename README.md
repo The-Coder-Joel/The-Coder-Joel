@@ -30,11 +30,44 @@ Welcome to my GitHub profile! I'm a passionate **PHP Web Developer** with 2 year
 
 ## 🚀 Featured Projects
 
-### 1. **Whitetrip(https://github.com/joelbenny/project-1)**
+### 1. **Whitetrip (https://www.whitetrip.in)**
 
-- **Description**: A project description goes here. Built using **PHP**, **Laravel**, and **Bootstrap**.
-- **Features**: Briefly list the key features (e.g., dynamic content, API integration, etc.).
-- **Technologies Used**: PHP, Laravel, JavaScript, Bootstrap.
+- **Description**
+- WhiteTrip is a modern and user-friendly travel booking platform designed to simplify the process of finding and booking travel packages, accommodations, and transportation. Developed with a focus on providing an intuitive user experience, WhiteTrip enables users to easily explore a variety of travel destinations and choose from a range of curated travel packages that suit their preferences.
+
+Whether you're planning a quick weekend getaway or a long vacation, WhiteTrip helps you plan and organize your trips with ease and confidence.
+
+- **Features**:
+  **Responsive Design**
+  Fully responsive website built with Bootstrap and SCSS, ensuring optimal viewing on all devices (mobile, tablet, desktop).
+  **User-Friendly Interface**
+  Intuitive and easy-to-navigate design with smooth UI transitions and accessible options for quick booking and exploring various destinations.
+  **Travel Package Booking**
+  A seamless booking system allowing users to explore and book travel packages, with all necessary information provided at a glance (pricing, dates, and package inclusions).
+  **Destination Filters**
+  Advanced filtering options to help users refine their search based on budget, duration, type of trip (e.g., adventure, honeymoon, etc.), and location.
+  **Integrated Payment Gateway**
+  Secure and reliable payment integration for hassle-free transactions. Users can make payments directly through the website with various payment methods.
+  **Dynamic Package Pricing**
+  The platform features real-time dynamic pricing for travel packages, allowing users to see the latest prices and availability updates.
+  **Customer Support**
+  Integrated customer support via chat, email, or phone, ensuring users can easily reach out for any assistance or queries regarding bookings.
+  **Real-Time Availability Updates**
+  Display of real-time availability of travel packages, ensuring users are always up-to-date with the latest options.
+  **Interactive Map Integration**
+  Interactive map to visually explore and select destinations based on geography and interest, enhancing user engagement.
+  **Newsletter and Promotions**
+  Option for users to subscribe to a newsletter and receive updates on the latest travel deals, discounts, and promotions.
+  **Travel Blog and Tips**
+  A section dedicated to travel tips, blogs, and user experiences, offering valuable insights to users for making informed decisions about their trips.
+  **SEO Optimized**
+  Built with best SEO practices, ensuring high visibility on search engines, making it easier for travelers to find the platform.
+  **Mobile Optimized**
+  Tailored mobile experience for on-the-go users, with touch-friendly features and fast load times on mobile devices.
+  **Scalable Architecture**
+  Designed with scalability in mind to handle future growth, ensuring the platform can support more users and additional features as it expands.
+
+- **Technologies Used**: PHP, JavaScript, Bootstrap, HTML, CSS, AJAX, SCSS.
 
 ### 2. **[Another Project Name](https://github.com/joelbenny/project-2)**
 
