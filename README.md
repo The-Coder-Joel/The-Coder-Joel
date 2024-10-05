@@ -2,9 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate **PHP Web Developer** with 2 years of experience at **Hatcherries Technologies Private Limited**. I specialize in building scalable, efficient, and user-friendly web applications using a wide range of modern technologies.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=joelbenny&color=blue)](https://github.com/joelbenny) 
-[![GitHub followers](https://img.shields.io/github/followers/joelbenny?label=Follow&style=social)](https://github.com/joelbenny)
-
 ---
 
 ## 🧑‍💻 About Me
