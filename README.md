@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate **PHP Web Developer** with 2 year
 ## 🧑‍💻 About Me
 
 - 💼 Currently working at **Hatcherries Technologies Private Limited** as a PHP Developer.
-- 🔧 I have hands-on experience with **Core PHP**, **Laravel**, **React**, and **JavaScript**.
+- 🔧 I have hands-on experience with **Core PHP**, **Laravel**, **React**, **WordPress** and **JavaScript**.
 - 🔄 Skilled in **jQuery**, **HTML**, **CSS**, **SCSS**, **AJAX**, and **Bootstrap**.
 - 🌱 I’m always eager to learn new technologies and expand my skill set, currently diving deeper into **React** and **API development**.
 - 💬 Ask me about PHP, Laravel, or how to optimize web performance.
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate **PHP Web Developer** with 2 year
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) |
 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) | ![Composer](https://img.shields.io/badge/-Composer-885630?style=flat&logo=composer&logoColor=white) |
-| ![SCSS](https://img.shields.io/badge/-SCSS-C6538C?style=flat&logo=sass&logoColor=white) | ![AJAX](https://img.shields.io/badge/-AJAX-007ACC?style=flat) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| ![SCSS](https://img.shields.io/badge/-SCSS-C6538C?style=flat&logo=sass&logoColor=white) | ![AJAX](https://img.shields.io/badge/-AJAX-007ACC?style=flat) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) |
 
 ## 🌱 Currently Learning
 
@@ -36,7 +36,8 @@ Welcome to my GitHub profile! I'm a passionate **PHP Web Developer** with 2 year
 ## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-benny-a68691220) 
-[![Twitter](https://img.shields.io/badge/-Instagram-1DA1F2?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/___joel___._/) 
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/___joel___._/) 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6f42c1?style=flat&logo=google-chrome&logoColor=white)](https://the-coder-joel.github.io/)
 
 ---
 
