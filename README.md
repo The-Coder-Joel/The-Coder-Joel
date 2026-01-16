@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with 3 years of
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-benny-a68691220) 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/___joel___._/) 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-6f42c1?style=flat&logo=google-chrome&logoColor=white)](https://the-coder-joel.github.io/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6f42c1?style=flat&logo=google-chrome&logoColor=white)](https://www.joelbenny.in/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact.joelbenny@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+919207784863)
 
