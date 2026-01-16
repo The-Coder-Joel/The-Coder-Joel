@@ -1,18 +1,18 @@
 # Hi, I'm Joel Benny 👋
 
-Welcome to my GitHub profile! I'm a passionate **PHP Web Developer** with 2 years of experience at **Hatcherries Technologies Private Limited**. I specialize in building scalable, efficient, and user-friendly web applications using a wide range of modern technologies.
+Welcome to my GitHub profile! I'm a passionate **Web Developer** with 3 years of experience. I specialize in building scalable, efficient, and user-friendly web applications using a wide range of modern technologies.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💼 Currently working at **Hatcherries Technologies Private Limited** as a PHP Developer.
+- 💼 Currently working at **Leapcodes Private Limited** as a Web Developer.
 - 🔧 I have hands-on experience with **Core PHP**, **Laravel**, **React**, **WordPress** and **JavaScript**.
 - 🔄 Skilled in **jQuery**, **HTML**, **CSS**, **SCSS**, **AJAX**, and **Bootstrap**.
 - 🌱 I’m always eager to learn new technologies and expand my skill set, currently diving deeper into **React** and **API development**.
 - 💬 Ask me about PHP, Laravel, or how to optimize web performance.
 - 🎯 I enjoy working on challenging problems that require creativity and advanced problem-solving skills.
-- 📫 You can reach me at: contact.joelbenny@gmail.com
+- 📫 You can reach me at: info@joelbenny.in
 
 ---
 
